@@ -34,3 +34,16 @@ Es un proveedor independiente de correo electrónico con base en Alemania. Adem�
 *	Mailbox con espacio de 2GB
 *	No guarda tu dirección IP ni otros rastros digitales.
 
+### •	AUTISTICI/INVENTATI
+Es un colectivo activista y anti-capitalista con base en Italia. 
+
+### Características
+*	Es un servicio gratuito
+*	Brinda la posibilidad de acceder a tu cuenta de correo a través de Internet o mediante un programa de correo.
+*	Seguridad a través de HTTPS y encriptación de mensajes y datos almacenados
+*	Permite crear cuentas anónimas
+*	No tienen límite de espacio (pero si pide usar las cuentas con consciencia ;) )
+*	Libre de publicidad
+*	No guarda tu dirección IP ni otros rastros digitales
+* Junto a tu cuenta de correo tienes automáticamente acceso a servicio de compartir enlaces y la posibilidad de crear hasta cinco cuentas adicionales (como alias de tu misma cuenta de correo)
+
